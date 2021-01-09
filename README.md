@@ -18,6 +18,9 @@ Dumdat works on the terminal. But first you need to add dumdat to your PATH. If 
 
 ### fill
 
+1. Write "fill"
+![written 'fill'](https://github.com/kaiserthe13th/Dumdat/main/img/fill-1.png)
+
 ### refill
 
 ### erase
