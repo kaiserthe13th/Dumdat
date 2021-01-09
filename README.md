@@ -8,8 +8,8 @@ Dumdat works on the terminal. But first you need to add dumdat to your PATH. If 
 
 ### How to use Dumdat?
 
-1. Open Your Terminal ![An Opened Terminal](https://github.com/kaiserthe13th/Dumdat/main/img/1.png)
-1. Write 'dumdat' ![Written 'dumdat'](https://github.com/kaiserthe13th/Dumdat/main/img/2.png)
+1. Open Your Terminal ![An Opened Terminal](https://github.com/kaiserthe13th/Dumdat/tree/main/img/1.png)
+1. Write 'dumdat' ![Written 'dumdat'](https://github.com/kaiserthe13th/Dumdat/tree/main/img/2.png)
 1. Enter your action (
 [fill](https://github.com/kaiserthe13th/Dumdat/blob/main/README.md#fill)
 [refill](https://github.com/kaiserthe13th/Dumdat/blob/main/README.md#refill)
@@ -19,7 +19,7 @@ Dumdat works on the terminal. But first you need to add dumdat to your PATH. If 
 ### fill
 
 1. Write "fill"
-![written 'fill'](https://github.com/kaiserthe13th/Dumdat/main/img/fill-1.png)
+![written 'fill'](https://github.com/kaiserthe13th/Dumdat/tree/main/img/fill-1.png)
 
 ### refill
 
