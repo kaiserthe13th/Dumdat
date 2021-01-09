@@ -7,7 +7,6 @@ A dummy data generator for linux
 Dumdat works on the terminal. But first you need to add dumdat to your PATH. If you don't know how to add files to PATH, follow [this](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/) tutorial from [Linuxize](https://linuxize.com/)
 
 ### How to use Dumdat?
-https://github.com/kaiserthe13th/Dumdat/tree/main/img/2.png
 1. Open Your Terminal 
 
 ![An Opened Terminal](https://github.com/kaiserthe13th/Dumdat/blob/main/img/1.png)
